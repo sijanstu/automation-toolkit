@@ -2,14 +2,9 @@ package com.sijanstu.playwrighthamroapi.playwright;
 
 
 import com.microsoft.playwright.*;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 
 import javax.swing.*;
-import java.io.IOException;
 import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
